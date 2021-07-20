@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["notFound"],{9703:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",[e("h1",{staticClass:"app-title"},[t._v("Not found")]),e("md-button",{staticClass:"md-primary md-raised",attrs:{to:"/todo/add"}},[t._v("Create New Todo")])],1)},o=[],s={},d=s,r=e("2877"),i=Object(r["a"])(d,n,o,!1,null,null,null);a["default"]=i.exports}}]);
+//# sourceMappingURL=notFound.9f9f7427.js.map
